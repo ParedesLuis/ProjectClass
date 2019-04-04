@@ -1,0 +1,6 @@
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\bin\Debug\Barajeo.exe.config
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\bin\Debug\Barajeo.exe
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\bin\Debug\Barajeo.pdb
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\obj\Debug\Barajeo.csprojResolveAssemblyReference.cache
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\obj\Debug\Barajeo.exe
+C:\Users\XGaming\Documents\Visual Studio 2015\Projects\Barajeo\Barajeo\obj\Debug\Barajeo.pdb
